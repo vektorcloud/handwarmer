@@ -1,4 +1,4 @@
-FROM quay.io/vektorcloud/python3:latest
+FROM quay.io/vektorcloud/python:3
 
 COPY handwarmer.py /handwarmer.py
 
