@@ -1,6 +1,6 @@
 # handwarmer
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/handwarmer)
 
 Small image for simulating CPU load with multiple processes.  Useful in testing. 
 
